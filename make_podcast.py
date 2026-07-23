@@ -157,11 +157,18 @@ def main() -> None:
     update_feed(mp3_path, title, pub_date)
 
     if args.push:
+        # 台本を docs/scripts/ にコピーしてスマホからも参照できるようにする
+        scripts_dir = DOCS_DIR / "scripts"
+        scripts_dir.mkdir(parents=True, exist_ok=True)
+        script_dest = scripts_dir / script_path.name
+        script_dest.write_text(script_path.read_text(encoding="utf-8"), encoding="utf-8")
+
         print("  GitHubへpush中...")
-        subprocess.run(["git", "add", str(mp3_path), str(FEED_PATH)], check=True)
+        subprocess.run(["git", "add", str(mp3_path), str(FEED_PATH), str(script_dest)], check=True)
         subprocess.run(["git", "commit", "-m", f"podcast: {date_str}"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
-        print(f"  公開URL: {BASE_URL}/audio/{mp3_path.name}")
+        print(f"  音声URL: {BASE_URL}/audio/{mp3_path.name}")
+        print(f"  台本URL: {BASE_URL}/scripts/{script_path.name}")
 
     print("完了!")
 
