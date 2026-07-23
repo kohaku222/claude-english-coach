@@ -1,11 +1,3 @@
-# Anki exports (personal learning data)
-exports/
-
-# Anki package
-*.apkg
-
-# macOS
-.DS_Store
-
-# OMC
-.omc/
+.venv/
+__pycache__/
+*.pyc
