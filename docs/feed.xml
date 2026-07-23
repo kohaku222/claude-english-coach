@@ -2004,5 +2004,132 @@ Okay, I'm out! See ya!
       <pubDate>Thu, 23 Jul 2026 08:33:44 +0000</pubDate>
       <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/listening_20260723.txt" type="text/plain"/>
     </item>
+    <item>
+      <title>英語学習 listening_20260723_2</title>
+      <description># 相：進行相と完了相の違い（受動態）
+
+He grumbled to his daughter about how he was being treated.
+The workers contended that they were being exploited by the company.
+He was being treated poorly by the staff.
+He had been treated poorly before things changed.
+
+ここがポイントです。
+前者は継続している仕打ちのプロセス、後者は区切りのついた過去の経験を表しています。
+
+He was being treated poorly by the staff.
+
+# 受動態の作り方
+
+They treated him badly.
+He was treated badly.
+He was being treated badly.
+He had been treated badly.
+
+ここがポイントです。
+受動態は能動態の時制・相をそのままbe動詞に引き継ぎます。単純過去はwas treated、進行相はwas being treated、完了相はhad been treatedになります。
+
+He was being treated badly.
+
+# sinceと基準点の作り方
+
+He entered the nursing home several months ago.
+Since then, he had been grumbling to his daughter about how he was being treated.
+He grumbled to his daughter about how they had been treating him poorly since he entered the nursing home.
+
+ここがポイントです。
+sinceの後ろに来る出来事はそれ自体が基準点になるため、単純過去を使います。もう一つ前の基準点を作る必要はありません。
+
+He grumbled to his daughter about how they had been treating him poorly since he entered the nursing home.
+
+# 相12マス基本形
+
+I cook.
+I am cooking.
+I have cooked.
+I have been cooking for three hours.
+I cooked.
+I was cooking.
+I had cooked.
+I had been cooking.
+I will cook.
+I will be cooking.
+I will have cooked.
+I will have been cooking.
+
+# 時の副詞節の中は現在形
+
+I had already cooked dinner before he arrived.
+I'll have cooked by the time he comes at 7 PM.
+I'll have been cooking for hours when he comes.
+We will have already left by the time she arrives at the airport.
+
+ここがポイントです。
+when, before, by the timeなどの時の副詞節は、未来のことでも現在形を使います。willを重ねないのがルールです。
+
+I'll have cooked by the time he comes at 7 PM.
+
+# 実践例文：料理
+
+I cook breakfast every morning at 6 AM.
+I'm cooking in the kitchen right now.
+I've just cooked dinner, and it's on the table now.
+I've been cooking for three hours.
+I cooked pasta last night.
+I was cooking when the phone rang at 8 PM yesterday.
+I'd cooked before he came.
+I'd been cooking for hours when he arrived.
+I will cook dinner tomorrow.
+I'll be cooking at 7 PM tomorrow.
+
+# 実践例文：勉強・待つ・到着
+
+She studies for three hours every night.
+I'm studying in the library.
+I've finished studying for the exam.
+He had been studying for hours.
+She has been waiting for an hour.
+I had been waiting for an hour when he came.
+The train will arrive at 3 PM tomorrow.
+
+# 確信度の助動詞（Modality）
+
+I'll be studying at this time tomorrow.
+I should be studying at this time tomorrow.
+I might be studying at this time tomorrow.
+I'll probably be studying at this time tomorrow.
+
+ここがポイントです。
+willは確信度の高い予測、shouldはやや弱い確信、might/couldは五分五分の推測を表します。willをそのまま使いながらprobablyを足すのも有効です。
+
+I'll probably be studying at this time tomorrow.
+
+# 期間・基準点表現
+
+I've been waiting for two hours.
+I've been waiting since 2 PM.
+I fell asleep during the meeting.
+I was in the meeting for two hours.
+I had finished cooking before he arrived.
+After he arrived, I served dinner.
+I will have finished cooking by the time he arrives.
+I will have finished cooking by 7 PM.
+I had already left when he called.
+I hadn't finished the report until midnight.
+I've lived here since 2020.
+
+# 語彙：rehashing
+
+We kept rehashing the same argument about who forgot to lock the door, and it went nowhere.
+
+# SPEAK MODE添削
+
+Thank you for planning out how to study English for me.
+Thanks so much for helping me put together a study plan.
+</description>
+      <enclosure url="https://kohaku222.github.io/claude-english-coach/audio/listening_20260723_2.mp3" length="1725333" type="audio/mpeg"/>
+      <guid>https://kohaku222.github.io/claude-english-coach/audio/listening_20260723_2.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 15:16:12 +0000</pubDate>
+      <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/listening_20260723_2.txt" type="text/plain"/>
+    </item>
   </channel>
 </rss>
