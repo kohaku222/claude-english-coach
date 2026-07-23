@@ -1,0 +1,295 @@
+# ====================================================
+# Listening Material — 2026/06/17 English Session
+# ====================================================
+
+# ────────────────────────────────────────
+# お礼・共感表現
+# ────────────────────────────────────────
+
+Thanks for opening up about something so personal yesterday.
+I'm really hoping your brother gets better soon.
+
+Thank you for trusting me with something so personal yesterday.
+I sincerely hope your brother makes a full recovery.
+
+I really appreciate you sharing something that personal with me yesterday.
+I'm keeping your brother in my thoughts and wishing him a speedy recovery.
+
+# ────────────────────────────────────────
+# 未来完了形・確定した未来の予定
+# ────────────────────────────────────────
+
+I will have finished the task by the time you come.
+I'll have the task done by the time you get here.
+
+I'm leaving for India in three months and staying for a month.
+
+The deployment will go live in two hours.
+The server crashed after two hours of running the script.
+
+ここがポイントです。
+「in+期間」は今この瞬間が基準点のカウントダウン、「after+期間」は文中の別の出来事が基準点です。
+
+I'm leaving for India in three months.
+
+# ────────────────────────────────────────
+# 現在進行形による確定未来 vs will vs be going to
+# ────────────────────────────────────────
+
+I'm leaving for India in three months and staying for a month.
+I'm going to visit India next year.
+I think I'll go to India someday.
+
+ここがポイントです。
+be+ingは航空券・予約など手配済みの確定予定、be going toは意図・計画レベル、willはその場の判断・予測です。
+
+I'm leaving for India in three months and staying for a month.
+
+# ────────────────────────────────────────
+# 過去の習慣（used to / would）
+# ────────────────────────────────────────
+
+I used to play soccer when I was young, but now I can't because of my right knee injury.
+I used to play soccer all the time growing up, but my right knee gave out on me so I had to stop.
+
+I used to play badminton all the time growing up, but my left foot injury took me out of it.
+I used to play badminton all the time growing up, but a left foot injury forced me to quit.
+
+ここがポイントです。
+「used to」は今はしていない過去の習慣の対比を強調します。「would」も過去の習慣を表せますが、「but now」と組み合わせると対比のニュアンスが弱くなります。
+
+I used to play badminton all the time growing up, but a left foot injury forced me to quit.
+
+# ────────────────────────────────────────
+# have no option but to / no choice but to
+# ────────────────────────────────────────
+
+I have no option but to quit the task.
+I have no choice but to drop the task.
+
+# ────────────────────────────────────────
+# look like she's getting / seem to be
+# ────────────────────────────────────────
+
+She looks like she's getting tired.
+She seems to be running out of steam.
+
+# ────────────────────────────────────────
+# 倒置構文 vs 通常語順
+# ────────────────────────────────────────
+
+Never have I committed a minor offense.
+I've never committed even the slightest offense.
+
+ここがポイントです。
+否定副詞を文頭に置いた倒置構文は文語的・強調的でドラマチックに聞こえます。日常会話では通常語順のほうが自然です。
+
+I've never committed even the slightest offense.
+
+# ────────────────────────────────────────
+# 先生の車に小石（過去の記憶・慣用表現）
+# ────────────────────────────────────────
+
+Oh wait, actually one thing comes to mind.
+Now that I think about it, I might've thrown a pebble at my teacher's car when I was a kid.
+
+Oh wait, actually there is one thing I just remembered.
+Now that I think about it, I may have thrown a small stone at my teacher's car when I was young.
+
+Oh hold on, actually something just came back to me.
+Now that I think about it, I think I might've chucked a pebble at my teacher's car back when I was a kid.
+
+# ────────────────────────────────────────
+# Now that I've done my best / have no regrets
+# ────────────────────────────────────────
+
+Now that I've done my best, I have no regrets.
+Now that I've given it everything I've got, I have zero regrets.
+
+# ────────────────────────────────────────
+# during / while / when の使い分け
+# ────────────────────────────────────────
+
+We found three critical bugs during the code review.
+The model kept hallucinating while I was fine-tuning the parameters.
+The server crashed when the load exceeded the threshold.
+
+ここがポイントです。
+duringは名詞で期間を範囲指定、whileはS+Vで2つの動作の同時進行、whenはS+Vで時間軸上の点やきっかけを表します。
+
+We found three critical bugs during the code review.
+
+I only study the flashcards which contain new vocabulary.
+The script generates a log file, which gets uploaded to S3 automatically.
+
+ここがポイントです。
+カンマなしのwhichは先行詞を限定するフィルター、カンマありのwhichは「and it」に近い補足情報の追加です。
+
+The script generates a log file, which gets uploaded to S3 automatically.
+
+# ────────────────────────────────────────
+# All Ears English Podcast イントロ
+# ────────────────────────────────────────
+
+Welcome to the All Ears English Podcast, downloaded more than 200 million times.
+Are you feeling stuck with your English?
+We'll show you how to become fearless and fluent by focusing on connection, not perfection.
+
+How do you know if a verb is transitive or intransitive?
+And more importantly, how can this affect connection?
+Learn all of this and more today.
+
+# ────────────────────────────────────────
+# 他動詞・自動詞・両用動詞
+# ────────────────────────────────────────
+
+I'll email you the report.
+The server crashed at midnight.
+
+"Run" is ambitransitive.
+I run a company.
+I run every day.
+
+ここがポイントです。
+他動詞は後ろに目的語が必須、自動詞は不要、両用動詞はどちらの用法も持ちます。判定は「主語＝補語が成立するか」で機械的に見分けられます。
+
+I run a company.
+I run every day.
+
+# ────────────────────────────────────────
+# 使役構文（have + O + 原形）
+# ────────────────────────────────────────
+
+I'll have the script generate a report automatically.
+We had the AI summarize the meeting notes.
+I have ChatGPT compile everything into a CSV, which I dump straight into Anki.
+
+# ────────────────────────────────────────
+# Linking Verb（連結動詞）
+# ────────────────────────────────────────
+
+It starts acting as my English teacher.
+The server becomes unresponsive under heavy load.
+The build process gets stuck at the linting stage.
+The API started returning 500 errors after deployment.
+She seems happy.
+He remained calm.
+
+ここがポイントです。
+be動詞はLinking Verbの代表格ですが、become / get / start / turn / seem / remain も同じグループで、主語の状態を後ろの補語にイコールで結びます。
+
+It starts acting as my English teacher.
+
+# ────────────────────────────────────────
+# 非制限用法 which（カンマ付き）
+# ────────────────────────────────────────
+
+I have it compile everything into a CSV, which I dump straight into Anki to turn into flashcards.
+The script generates a log file, which gets uploaded to S3 automatically.
+We only deploy the services which pass all the CI checks.
+
+# ────────────────────────────────────────
+# 所有格 his vs 目的格 him
+# ────────────────────────────────────────
+
+I put his gentle leader on so he wouldn't pull too hard.
+I put his collar on before we headed out for the morning walk.
+I put him in his crate.
+
+ここがポイントです。
+動作の直接の対象が人そのものなら目的格（him）、人が所有する物なら所有格（his）を使います。
+
+I put his gentle leader on so he wouldn't pull too hard.
+
+# ────────────────────────────────────────
+# ChatGPT + Anki 英語学習法
+# ────────────────────────────────────────
+
+My strategy for acquiring English is to use ChatGPT and an app called Anki.
+I set up a system prompt for ChatGPT so that it starts acting as my English teacher.
+
+In my daily life, when I want to express my feelings in English but don't know how to say it, I send the Japanese word to the chat, and it sends back the translated version.
+Or when I can't understand an English word, I send it over, and ChatGPT also sends back the Japanese meaning along with the IPA.
+
+At the end of the day, I have ChatGPT generate a CSV file containing every word or phrase I used that day.
+I then import this file into Anki and turn it into flashcards to study.
+
+My go-to method for picking up English is combining ChatGPT with Anki.
+I've got ChatGPT set up with a custom prompt so it acts like a personal English tutor.
+Whenever I'm not sure how to phrase something, I just type it in Japanese and get the English version back instantly.
+Same goes for words I don't recognize; I throw them at ChatGPT and get the meaning plus IPA right away.
+Then at night, I have it compile everything into a CSV, which I dump straight into Anki to turn into flashcards.
+
+# ────────────────────────────────────────
+# 英語＝体育論（PE比喩）
+# ────────────────────────────────────────
+
+I would just say that English is more like PE than math, in the sense that it needs daily practice.
+What I mean is, math or physics can sometimes improve all at once, but PE doesn't work that way.
+Your muscles need time to repair, and that process takes two or three days.
+This shows that you can't get stronger overnight.
+
+What I'm trying to say is that English is more like a sport than a subject like math.
+It demands daily reps, not occasional cramming.
+With math or physics, things can click all at once.
+But with something physical, your muscles literally need two or three days to repair and rebuild.
+You just can't rush that kind of strength.
+
+# ────────────────────────────────────────
+# 単語・イディオム・フレーズ例文集
+# ────────────────────────────────────────
+
+I've been so forgetful lately — I left my umbrella on the train again.
+
+This time there are higher stakes, since the client is watching the demo live.
+His reputation is at stake if this product launch fails.
+We need to align with all the stakeholders before the release.
+
+The vet recommended a muzzle to keep him calm during the visit.
+Before our walk, I put his gentle leader on so he wouldn't pull too hard.
+
+Her story about overcoming failure really resonated with the audience.
+Seeing my dog wag his tail when I get home always makes my day.
+
+I'm a curious mind by nature, so I end up reading about random topics I know nothing about.
+
+If we could automate this whole process, it'd be fantastic.
+
+This rule applies to everyone, with no exception.
+
+It's fascinating how the human brain can rewire itself after an injury.
+
+If you found this tutorial helpful, hit subscribe on our channel so you don't miss the next one.
+
+Constantly switching frameworks without mastering the fundamentals will stunt your progress as a developer.
+
+As long as the tests pass, you can merge the pull request.
+
+After years of experience, you develop an intuition for spotting mistakes.
+
+Instead of overthinking grammar rules, just dive in with the language and start speaking.
+
+Using "do" instead of "make" in certain phrases is a glaring error that sounds really off to native speakers.
+
+The migration will take roughly two weeks to complete.
+Sales increased by about 15%.
+
+"Give it a shot" is a more idiomatic way of saying "try it."
+
+In the end, it all comes down to how well you communicate with your team.
+
+We used a ton of those terms today.
+
+Do you need help with the database setup or anything else?
+Let me know if you need this fixed or anything else.
+
+This approach is simpler in the sense that it requires fewer dependencies.
+
+Now that I think about it, I might've thrown a pebble at my teacher's car when I was a kid.
+
+I'm convinced he's going to be a great basketball player.
+
+I'm heading to India in three months.
+
+Then we're all screwed.
+We're so screwed.
