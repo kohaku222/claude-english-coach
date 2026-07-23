@@ -1,0 +1,253 @@
+# ════════════════════════════════════
+# 2026/06/16 英語学習 リスニング教材
+# ════════════════════════════════════
+
+
+# ────────────────────────────────────
+# SPEAK MODE: 英語が流暢に話せるようになった
+# ────────────────────────────────────
+
+I can now speak English fluently — I found a great method that really works.
+My English has really clicked — I finally figured out what works for me.
+
+
+# ────────────────────────────────────
+# SPEAK MODE: Claude Codeを英語の先生として使っている
+# ────────────────────────────────────
+
+I use Claude Code as my English teacher — I set up a system prompt so it acts as a language coach.
+Now I'm confident I can study any language, not just English, but also Chinese or Korean, using Claude Code.
+I've been using Claude Code as a language tutor — just dropped in a system prompt and it works like a charm.
+Now I feel like I could tackle any language: Chinese, Korean, you name it.
+
+
+# ────────────────────────────────────
+# SPEAK MODE: ウェルカムパーティー
+# ────────────────────────────────────
+
+Did you forget about the welcome party yesterday?
+I was waiting for you and I missed you — but don't worry about missing it, you don't have to pay anything.
+Anyway, there wasn't enough food, so if you had been there, it would have caused a serious food shortage!
+Hey, did you forget about yesterday's welcome party?
+I was looking for you!
+No worries about missing it though — no charge.
+Besides, we barely had enough food as it was, so honestly, it's probably a good thing you didn't show up!
+
+
+# ────────────────────────────────────
+# 単語: besides / barely
+# ────────────────────────────────────
+
+besides
+barely
+I don't think we should go there now — besides, it's already closed.
+The café was just barely big enough for all of us.
+
+
+# ────────────────────────────────────
+# SPEAK MODE: 食料がギリギリだった
+# ────────────────────────────────────
+
+There wasn't an excessive amount of food — it was just about right, so if you had been there, we might not have had enough!
+Honestly, the food was just barely enough — if you'd shown up, we would've run out for sure!
+
+
+# ────────────────────────────────────
+# TRANSLATE MODE: 外国人は英語を笑わない
+# ────────────────────────────────────
+
+Native speakers won't laugh at your English no matter how rough it is — they'll actually try to connect with you, so learning English can be pretty fun.
+Regardless of how awkward your English may be, native speakers will never mock you — in fact, they tend to engage with you proactively, which makes language learning a genuinely rewarding experience.
+However clumsy your English is, native speakers won't laugh — if anything, they'll go out of their way to chat with you, which is honestly what makes learning a language so much fun.
+
+# ここがポイントです。
+# Casual は「try to connect」、Professional は「engage proactively」、Super Native は「go out of their way to chat」と、同じ意味をレベルごとに異なる語彙で表現しています。
+
+However clumsy your English is, native speakers won't laugh — if anything, they'll go out of their way to chat with you.
+
+
+# ────────────────────────────────────
+# 単語・フレーズ: if anything / go out of their way
+# ────────────────────────────────────
+
+if anything
+go out of their way
+The new café isn't worse than before — if anything, it's even better.
+She went out of her way to make sure everyone felt welcome at the party.
+
+
+# ────────────────────────────────────
+# SPEAK MODE: コーヒーで眠れない
+# ────────────────────────────────────
+
+I didn't know that until now.
+Oh, I had no idea!
+
+
+# ────────────────────────────────────
+# TRANSLATE MODE: 朝のアラームシステム
+# ────────────────────────────────────
+
+I always set an alarm before I sleep — no way I'm trusting myself to wake up naturally.
+And it's not just any alarm; it's one that won't stop unless you scan a QR code.
+I've set that QR code to a bike-share station about a five-minute walk from my place, so I'm forced to go outside and take a little walk just to turn it off.
+That's my system for actually waking up.
+I make it a rule to always set an alarm before sleeping, as I've learned I simply cannot rely on waking up naturally.
+The alarm I use isn't a conventional one — it requires scanning a QR code to be dismissed.
+I've assigned that QR code to a bike-share station roughly five minutes on foot from my apartment, which means I'm obligated to step outside and take a short walk every morning just to silence it.
+It's a system I've designed to guarantee I actually get up.
+I never sleep without setting an alarm — trusting myself to wake up on my own is just not happening.
+On top of that, I use this alarm that won't shut off unless you scan a QR code.
+And I've linked that QR code to a bike-share station about a five-minute walk away, so to kill the alarm I literally have to drag myself outside for a little walk.
+That's the whole trick — by the time I'm back, I'm actually awake.
+
+
+# ────────────────────────────────────
+# TRANSLATE MODE: コーヒーで眠れない
+# ────────────────────────────────────
+
+I had coffee, so now I can't sleep at all… I actually want to sleep though.
+I made the mistake of having coffee, so now I'm not feeling sleepy at all — which is rather frustrating given that I actually want to get some rest.
+I made the mistake of having coffee and now I'm wide awake… of all the times to not be able to sleep.
+
+# ここがポイントです。
+# 「コーヒーを飲んでしまった後悔」の表し方として、Casual は単純な because 接続、Super Native は「I made the mistake of ~ing」という構文を使っています。後悔のニュアンスをより強く出したいときは後者が自然です。
+
+I made the mistake of having coffee and now I'm wide awake… of all the times to not be able to sleep.
+
+
+# ────────────────────────────────────
+# 単語・構文: of all the times / wide awake / I made the mistake of ~ing
+# ────────────────────────────────────
+
+of all the times to forget your umbrella…
+of all the days to run into your ex…
+I made the mistake of skipping breakfast and now I can't focus at all.
+I was wide awake at 3 AM and had no idea why.
+
+
+# ────────────────────────────────────
+# SPEAK MODE: よりによってみすぼらしい服の日に元カノに会う
+# ────────────────────────────────────
+
+Of all the times to be wearing my worst outfit… and I run into my ex.
+Of all the days to look like a complete mess — of course I'd run into my ex.
+
+
+# ────────────────────────────────────
+# 単語: run into
+# ────────────────────────────────────
+
+run into
+I ran into my old university professor at the gym — hadn't seen him in like three years.
+I ran into a few unexpected problems while setting up the new system.
+We ran into each other at the supermarket completely by chance.
+
+
+# ────────────────────────────────────
+# ポッドキャスト: wishful thinking / be guilty of / a kind way of saying
+# ────────────────────────────────────
+
+wishful thinking
+I absolutely have hope for peace in the world.
+Thinking the project will finish on time without any delays is just wishful thinking.
+I'm guilty of checking my phone first thing every morning.
+We're all guilty of that.
+Saying someone's idea is "interesting" is sometimes just a kind way of saying you don't agree with it.
+That's optimistic — which is a kind way of saying it's unlikely.
+
+# ここがポイントです。
+# 「That's optimistic」は表面上は褒め言葉ですが、文脈によって「まずないと思う」という婉曲的な否定になります。直接否定を避ける英語の定番テクニックです。
+
+That's optimistic — which is a kind way of saying it's unlikely.
+
+
+# ────────────────────────────────────
+# 単語: skeptic / convinced
+# ────────────────────────────────────
+
+skeptic
+skeptical
+A lot of skeptics said electric cars would never catch on — that's clearly changed.
+I'm not convinced this approach will work at scale.
+I'm convinced we need to rethink the whole strategy before moving forward.
+
+# ここがポイントです。
+# skeptical は「証拠がないから信じない」という論理ベースの態度、cynical は「どうせダメだろう」という感情ベースの否定的態度を指します。
+
+I'm skeptical about the new policy, but I'm willing to give it a chance.
+
+
+# ────────────────────────────────────
+# ポッドキャスト: a lot of times / you might say / Never have I done that
+# ────────────────────────────────────
+
+a lot of times
+A lot of times, the best solution is the simplest one.
+You might say it's risky, but I think it's worth trying.
+A lot of times you might say, we talked about this — but is that just wishful thinking?
+Never have I done that in my life.
+Never have I felt so out of place.
+
+# ここがポイントです。
+# 否定副詞（never・rarely・not once）を文頭に置くと主語と助動詞が倒置します。通常形と倒置形の違いを確認してください。
+
+I have never done that in my life.
+Never have I done that in my life.
+
+
+# ────────────────────────────────────
+# 単語: it's just not a thing / not my thing / clearance racks
+# ────────────────────────────────────
+
+it's just not a thing
+it's not my thing
+that's not really a thing here
+I've never been into karaoke — it's just not my thing.
+I love digging through clearance racks — you can find amazing stuff for almost nothing.
+I found this jacket on the clearance rack for ten dollars.
+
+
+# ────────────────────────────────────
+# 単語: burst someone's bubble / brand new / in advance / by the time
+# ────────────────────────────────────
+
+burst someone's bubble
+I hate to burst your bubble, but the deadline was moved up to next Monday.
+Sorry to burst your bubble, but that feature was already built by another team.
+brand new
+This laptop is brand new — straight out of the box.
+That café is brand new to me, even though it's been open for years.
+in advance
+Please let me know in advance if you can't make it.
+We recorded this a bit in advance, so things may have changed by now.
+by the time
+By the time I got to the station, the train had already left.
+By the time you finish reading this, the update will have rolled out.
+
+# ここがポイントです。
+# 「by the time」は未来完了形（will have done）と組み合わせることが多く、「その時点ですでに〜している」という時間のズレを表現します。
+
+By the time you hear this, it will have been out for a while.
+
+
+# ────────────────────────────────────
+# 構文: it will have been out a while / transatlantic / charter / last minute / was able to
+# ────────────────────────────────────
+
+It will have been out a while by the time you hear this.
+Most of you have probably already seen it.
+It would do transatlantic flights.
+It would charter a plane and then sell any extra tickets really cheap last minute.
+I was able to fly to Brussels from Salt Lake City for thirty-five dollars.
+
+# ここがポイントです。
+# 「would do / would charter」は過去の繰り返し習慣を表します。状態動詞（exist など）には使えず、その場合は「used to」を使います。
+
+It used to exist, but I don't think it does anymore.
+It would charter a plane and sell last-minute tickets at a huge discount.
+
+# ここがポイントです。
+# 「could fly」と「was able to fly」の違いに注意してください。過去に実際に達成できた一回限りの成功には「was able to」が正確です。
+
+I was able to fly to Brussels for just thirty-five dollars.
