@@ -6,24 +6,6 @@
     <description>Claude.aiとの英語学習セッションから生成したポッドキャスト</description>
     <language>ja</language>
     <item>
-      <title>英語学習 20260723</title>
-      <description># 2026年7月23日 英語学習セッション
-今日は「〜してもいいですか？」「〜しましょうか？」という申し出の表現を練習します。
-Do you want me to help you with that?
-それ、手伝いましょうか？
-Actually, I was wondering if you could give me a hand.
-実は、ちょっと手を貸してもらえないかなと思って。
-Don't worry about it. I've got it covered.
-大丈夫、私がやっておくから気にしないで。
-Let me know if there's anything I can do.
-何かできることがあれば言ってね。
-</description>
-      <enclosure url="https://kohaku222.github.io/claude-english-coach/audio/20260723.mp3" length="215589" type="audio/mpeg"/>
-      <guid>https://kohaku222.github.io/claude-english-coach/audio/20260723.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 02:12:32 +0000</pubDate>
-      <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/20260723.txt" type="text/plain"/>
-    </item>
-    <item>
       <title>英語学習 listening_20260615</title>
       <description># ════════════════════════════════════════
 # Listening Material — 2026/06/15
@@ -2021,20 +2003,6 @@ Okay, I'm out! See ya!
       <guid>https://kohaku222.github.io/claude-english-coach/audio/listening_20260723.mp3</guid>
       <pubDate>Thu, 23 Jul 2026 03:07:25 +0000</pubDate>
       <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/listening_20260723.txt" type="text/plain"/>
-    </item>
-    <item>
-      <title>英語学習 test</title>
-      <description># テスト台本
-今日は「今まさに〜しようとしていた」という表現を練習します。
-I was just about to leave.
-ちょうど出かけようとしていたところでした。
-That's perfect timing.
-ちょうどいいタイミングでしたね。
-</description>
-      <enclosure url="https://kohaku222.github.io/claude-english-coach/audio/test.mp3" length="103125" type="audio/mpeg"/>
-      <guid>https://kohaku222.github.io/claude-english-coach/audio/test.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 02:08:28 +0000</pubDate>
-      <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/test.txt" type="text/plain"/>
     </item>
   </channel>
 </rss>
