@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>英語学習ポッドキャスト</title>
+    <link>https://kohaku222.github.io/claude-english-coach/</link>
+    <description>Claude.aiとの英語学習セッションから生成したポッドキャスト</description>
+    <language>ja</language>
+    <item>
+      <title>英語学習 test</title>
+      <enclosure url="https://kohaku222.github.io/claude-english-coach/audio/test.mp3" length="103125" type="audio/mpeg"/>
+      <guid>https://kohaku222.github.io/claude-english-coach/audio/test.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 11:08:27 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
