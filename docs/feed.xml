@@ -2728,5 +2728,59 @@ Honestly, up until now I've been way too stubborn about this — I hated making 
       <pubDate>Thu, 30 Jul 2026 01:53:05 +0000</pubDate>
       <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/listening_20260730.txt" type="text/plain"/>
     </item>
+    <item>
+      <title>英語学習 listening_20260803</title>
+      <description>本日のリスニング教材です。2026年8月3日のセッションで扱った表現を収録しています。
+
+今日のトピックは、遅刻の謝罪表現、挨拶表現、卒論・研究紹介の英語表現、などです。
+それでは始めます。
+
+まずは、遅刻の謝罪表現です。
+
+Sorry, I totally forgot I had something to do today, so I'm running late.
+
+I'm really sorry for being late — I completely forgot I had something scheduled today.
+
+ここがポイントです。
+
+カジュアルな言い方では、理由を先に言ってから遅れていることを伝えますが、フォーマルな言い方では先に謝罪してから理由を説明する傾向があります。状況に応じて使い分けましょう。
+
+I'm really sorry for being late — I completely forgot I had something scheduled today.
+
+Sorry, I totally spaced that I had something going on today, that's why I'm late.
+
+次は、挨拶の表現です。
+
+Hey, how's it going?
+
+Hello, how are you doing today?
+
+ここがポイントです。
+
+"How's it going?" はとてもカジュアルな挨拶で友人同士で使い、"How are you doing today?" はより丁寧で、初対面やビジネスの場面にも使えます。
+
+Hello, how are you doing today?
+
+Hey, what's up?
+
+次は、卒論や研究内容を紹介するときの表現です。
+
+So this is basically my thesis stuff. Just so you know, our faculty runs kind of a weird curriculum where you can't stay in the same lab from undergrad into grad school. So the research I'm gonna talk about next is actually totally different from that.
+
+This is the content of my graduation thesis. I should mention in advance that our faculty follows a somewhat unusual curriculum, which means students cannot remain in the same lab from their undergraduate studies into graduate school. As a result, the research I'll be introducing next is completely different in content.
+
+ここがポイントです。
+
+カジュアルな表現では "kind of a weird curriculum" のように曖昧でくだけた言い回しを使いますが、フォーマルな表現では "a somewhat unusual curriculum" のように、より客観的で丁寧な語彙を選びます。研究発表など改まった場面ではフォーマル寄りの表現を意識しましょう。
+
+This is the content of my graduation thesis. I should mention in advance that our faculty follows a somewhat unusual curriculum, which means students cannot remain in the same lab from their undergraduate studies into graduate school. As a result, the research I'll be introducing next is completely different in content.
+
+So this is my thesis, basically. Quick heads up though — our faculty's got kind of a weird system where you can't stick with the same lab once you move on to grad school. So the research I'm about to show you is honestly a totally different thing.
+</description>
+      <enclosure url="https://kohaku222.github.io/claude-english-coach/audio/listening_20260803.mp3" length="1172973" type="audio/mpeg"/>
+      <guid>https://kohaku222.github.io/claude-english-coach/audio/listening_20260803.mp3</guid>
+      <pubDate>Sun, 09 Aug 2026 00:31:46 +0000</pubDate>
+      <podcast:transcript url="https://kohaku222.github.io/claude-english-coach/scripts/listening_20260803.txt" type="text/plain"/>
+    </item>
   </channel>
 </rss>
