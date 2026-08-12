@@ -19,6 +19,7 @@ Claudeのシステムプロンプトを使った、発音・会話・語彙を�
 | （デフォルト）| TRANSLATE MODE | 日本語→英語を3パターン（Casual / Professional / Super Native）＋IPA発音付きで出力 |
 | `/talk` | SPEAK MODE | 英語入力を添削・ネイティブ代替表現を提示 |
 | `/chat {話題}` | CHAT MODE | ネイティブとのフリー会話練習。`/end`でまとめてフィードバック |
+| `/drill` または `/drill {数字}` | DRILL MODE | 日本語→英語の反射的即英訳を鍛える高速ドリル。デフォルト7〜8文をまとめて出題・添削し、DRILL HISTORYで弱点を追跡 |
 | `/export` | EXPORT | セッション全コンテンツをAnki互換CSVとして出力 |
 
 ---
@@ -131,6 +132,7 @@ claude-english-coach/
 | 2026年4月〜5月 | IPA（発音記号）の精度向上、connected speech対応 |
 | 2026年6月 | SPEAK MODE・CHAT MODE追加。`/export`コマンド実装。Ankiカード仕様（バリエーション統合・意味単位分割ルール）を詳細化 |
 | 2026年7月 | Ankiカード表面フォーマットを全カード共通形式に統一（頭文字ヒント導入）。ポッドキャスト自動生成パイプライン追加 |
+| 2026年8月 | MODE 4: DRILL MODE（`/drill`）を追加。即英訳の高速アウトプット練習とDRILL HISTORYによる弱点追跡を実装し、`/export`・`/listen`と連携（ミス訂正の読み上げルールを追加） |
 
 ---
 
