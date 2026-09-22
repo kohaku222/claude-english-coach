@@ -131,7 +131,13 @@ I was just about to leave.
 ⑤ 統合ファイルをClaudeに送付 → 言えなかった部分・言い換え・重要語句を解説
         ↓
 ⑥ 気に入った表現だけ既存の /export ルールでAnkiカード化（全件は覚えない）
+        ↓
+⑦ 分析が終わった録音ファイルは shadowing/recordings/ から
+   shadowing/recordings/done/ へ「日付_元ファイル名」の形で移動
+   （例: shadowing/recordings/done/20260922_test.m4a）
 ```
+
+`recordings/` 直下に残っているファイル＝まだ分析していない音声。分析が終わったら `done/` に移動することで、次回以降どれが未処理かひと目でわかるようにする。
 
 使用技術はすべて無料・オフライン中心（yt-dlp / ローカルWhisper）。字幕取得（yt-dlp）はネットワーク制限のないローカルPCで実行する。
 
@@ -139,7 +145,8 @@ I was just about to leave.
 
 ```
 shadowing/
-├── recordings/    # 毎朝の録音音声（mp3等）
+├── recordings/    # 毎朝の録音音声（mp3等）。未処理はここ直下に置く
+│   └── done/      # 分析完了した録音（日付_元ファイル名で移動）
 ├── subs/          # yt-dlpで取得した元動画字幕（vtt）
 ├── transcripts/   # Whisperの文字起こし結果
 └── combined/      # Step④で統合した最終ファイル（Claudeに送付する用）
@@ -166,7 +173,8 @@ claude-english-coach/
 ├── pyproject.toml         # Python依存関係（uv管理）
 ├── exports_listening/     # 台本テキスト置き場（.txt）
 ├── shadowing/             # シャドーイング学習ワークフロー用
-│   ├── recordings/        # 録音音声
+│   ├── recordings/        # 録音音声（未処理）
+│   │   └── done/          # 分析完了した録音
 │   ├── subs/              # 元動画字幕（yt-dlp）
 │   ├── transcripts/       # 文字起こし（Whisper）
 │   └── combined/          # 統合ファイル（Claudeに送付する用）

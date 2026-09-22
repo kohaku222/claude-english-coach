@@ -28,6 +28,16 @@ uv run make_podcast.py exports_listening/<ファイル名>.txt --push
 
 必要に応じてコミット・push する。
 
+### シャドーイング音声の分析・処理済みマーク
+
+`shadowing/recordings/` に新しい録音（mp3/m4a等）が置かれたら `/shadow` ワークフローで分析する：
+
+1. `uv run whisper shadowing/recordings/<ファイル名> --language en --output_format txt --output_dir shadowing/transcripts` で文字起こし
+2. 元動画の字幕（`shadowing/subs/`）と組み合わせて分析・解説
+3. 分析が終わったら、録音ファイルを `shadowing/recordings/` 直下から `shadowing/recordings/done/<日付>_<元ファイル名>` へ移動する
+
+`recordings/` 直下に残っているファイル＝まだ分析していない音声、という状態を常に維持する。
+
 ## フォルダ構成
 
 ```
