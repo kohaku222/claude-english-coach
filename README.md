@@ -106,6 +106,57 @@ I was just about to leave.
 
 ---
 
+## シャドーイング学習ワークフロー
+
+毎朝1本の動画でシャドーイング＋録音を行い、その日のうちに元スクリプトと自分の発話を比較・整形した1ファイルをClaudeに送ることで、重要語句やミス箇所の解説をその日のうちに受け取るワークフローです。
+
+### 仕組み
+
+```
+① 朝：好きな動画を1本選び、見ながらシャドーイング＋録音（ジャンル自由）
+        ↓
+② uv run yt-dlp --skip-download --write-auto-sub --write-sub \
+     --sub-lang en --sub-format vtt \
+     -o "shadowing/subs/%(id)s.%(ext)s" <動画URL>
+   → 元動画の字幕を取得
+        ↓
+③ uv run whisper shadowing/recordings/<録音ファイル> \
+     --language en --output_format txt \
+     --output_dir shadowing/transcripts
+   → 自分のシャドーイング音声を文字起こし（ローカルWhisper、オフライン動作）
+        ↓
+④ ②と③を1ファイルに統合 → shadowing/combined/20260923_shadowing.txt
+   （動画タイトル・URL／元スクリプト全文／自分の発話全文）
+        ↓
+⑤ 統合ファイルをClaudeに送付 → 言えなかった部分・言い換え・重要語句を解説
+        ↓
+⑥ 気に入った表現だけ既存の /export ルールでAnkiカード化（全件は覚えない）
+```
+
+使用技術はすべて無料・オフライン中心（yt-dlp / ローカルWhisper）。字幕取得（yt-dlp）はネットワーク制限のないローカルPCで実行する。
+
+### ディレクトリ構成
+
+```
+shadowing/
+├── recordings/    # 毎朝の録音音声（mp3等）
+├── subs/          # yt-dlpで取得した元動画字幕（vtt）
+├── transcripts/   # Whisperの文字起こし結果
+└── combined/      # Step④で統合した最終ファイル（Claudeに送付する用）
+```
+
+### 必要なツール
+
+`uv add` でプロジェクトの仮想環境（`.venv/`）に導入済み。コマンドは `uv run <ツール名>` の形で実行する。
+
+| ツール | 用途 |
+|---|---|
+| `yt-dlp` | 元動画の字幕（自動生成字幕含む）取得 |
+| `openai-whisper` | 録音音声のローカル文字起こし（初回モデルDL後は完全オフライン） |
+| `ffmpeg`（Homebrew） | Whisperの音声デコードに使用 |
+
+---
+
 ## リポジトリ構成
 
 ```
@@ -114,6 +165,11 @@ claude-english-coach/
 ├── make_podcast.py        # ポッドキャスト生成スクリプト
 ├── pyproject.toml         # Python依存関係（uv管理）
 ├── exports_listening/     # 台本テキスト置き場（.txt）
+├── shadowing/             # シャドーイング学習ワークフロー用
+│   ├── recordings/        # 録音音声
+│   ├── subs/              # 元動画字幕（yt-dlp）
+│   ├── transcripts/       # 文字起こし（Whisper）
+│   └── combined/          # 統合ファイル（Claudeに送付する用）
 └── docs/
     ├── index.html         # GitHub Pages トップ
     ├── feed.xml           # RSSフィード（自動更新）
@@ -133,10 +189,12 @@ claude-english-coach/
 | 2026年6月 | SPEAK MODE・CHAT MODE追加。`/export`コマンド実装。Ankiカード仕様（バリエーション統合・意味単位分割ルール）を詳細化 |
 | 2026年7月 | Ankiカード表面フォーマットを全カード共通形式に統一（頭文字ヒント導入）。ポッドキャスト自動生成パイプライン追加 |
 | 2026年8月 | MODE 4: DRILL MODE（`/drill`）を追加。即英訳の高速アウトプット練習とDRILL HISTORYによる弱点追跡を実装し、`/export`・`/listen`と連携（ミス訂正の読み上げルールを追加） |
+| 2026年9月 | シャドーイング学習ワークフローの基盤を追加。`shadowing/`ディレクトリ（recordings/subs/transcripts/combined）を新設し、字幕取得用`yt-dlp`とローカル文字起こし用`openai-whisper`を導入 |
 
 ---
 
 ## 今後の予定
 
-- [ ] シャドーイング専用モードの検討
+- [x] シャドーイング学習ワークフローの基盤構築（ディレクトリ・ツール導入）
+- [ ] シャドーイング用：字幕取得〜文字起こし〜1ファイル統合の自動化スクリプト化
 - [ ] 単語帳モード（頻出単語リストとの連携）
